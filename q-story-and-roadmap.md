@@ -42,7 +42,7 @@ Rolling out the clever autoscaling feature. Like giving each node a personal fit
 
 ### 🌃 Midnight (mainnet)
 
-📅 September, 2024 \
+📅 October 10, 2024\
 Entering full stealth mode. Onion routing and mixnet will make Quilibrium traffic as mysterious as a moonless night. Privacy levels that would impress even the most discerning security experts.
 
 ### ☯️ Equinox
