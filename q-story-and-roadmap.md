@@ -55,3 +55,10 @@ Laying the groundwork for serious applications. Think S3-compatible storage, Red
 
 📅 ETA: TBD \
 Things get truly advanced. End-to-end encrypted streaming, AI model training, and execution. Essentially building the operating system for a decentralized future.
+
+***
+
+Source: [Quilibrium blog](https://paragraph.xyz/@quilibrium.com/mission-control)
+
+***
+
