@@ -33,17 +33,18 @@ Pushing Quilibrium to its limits, stress-testing everything from BFT consensus t
 
 ### 🌆 Dusk
 
-📅 March 1, 2024 \
-Rolling out the clever autoscaling feature. Like giving each node a personal fitness trainer, ensuring they're in top shape to handle their workload efficiently.
+📅 March 2024 - October 2024\
+Gradual roll out and testing of the components required for mainnet: Autoscaling, Hypergraph, Onion Routing and Mixnet. This phase contains the updates: Sunset > Nightfall > Midnight (mainnet)
 
 ### 🌉 Ethereum bridge
 
-📅 May 13, 2024 Rolling out the Ethereum bridge first version, to allow early node runners to claim their hard-earned tokens as wrapped $QUIL ($wQUIL).
+📅 May 13, 2024 \
+Rolling out the Ethereum bridge first version, to allow early node runners to claim their hard-earned tokens as wrapped $QUIL ($wQUIL).
 
 ### 🌃 Midnight (mainnet)
 
-📅 October 10, 2024\
-Entering full stealth mode. Onion routing and mixnet will make Quilibrium traffic as mysterious as a moonless night. Privacy levels that would impress even the most discerning security experts.
+📅 October 2024\
+Final phase of "Dusk": entering full stealth mode. Quilibrium traffic is now as mysterious as a moonless night. Privacy levels that would impress even the most discerning security experts.
 
 ### ☯️ Equinox
 
