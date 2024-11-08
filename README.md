@@ -26,6 +26,8 @@ layout:
 * [Discord](https://discord.gg/quilibrium)
 * [Documentation](https://docs.quilibrium.space/)
 * [Telegram](https://t.me/quilibrium)
+* [Telegram announcements ](https://t.me/quilibriumANN)
+* [Telegram group](https://t.me/quilibrium)
 * [Twitter @QuilibriumOne](https://x.com/QuilibriumOne) (by LaMat)
 * [Twitter @QuilibriumSpace](https://x.com/QuilibriumSpace) (by 0xOzgur)
 * [Twitter @QuilibriumHub](https://x.com/QuilibriumHub)
@@ -33,6 +35,7 @@ layout:
 ### Official links <a href="#official-links" id="official-links"></a>
 
 * [Website](https://quilibrium.com/)
+* [Twitter @QuilibriumInc](https://x.com/QuilibriumInc)
 * [Warpcast](https://warpcast.com/\~/channel/quilibrium)
 * [Whitepaper](https://quilibrium.com/quilibrium.pdf)
 * [Github](https://github.com/quilibriumnetwork/)
