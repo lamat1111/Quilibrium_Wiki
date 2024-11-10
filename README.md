@@ -28,6 +28,7 @@ layout:
 * [Telegram](https://t.me/quilibrium)
 * [Telegram announcements ](https://t.me/quilibriumANN)
 * [Telegram group](https://t.me/quilibrium)
+* [Telegram Q1](https://t.me/quilibriumone) (for Q1 scripts updates)
 * [Twitter @QuilibriumOne](https://x.com/QuilibriumOne) (by LaMat)
 * [Twitter @QuilibriumSpace](https://x.com/QuilibriumSpace) (by 0xOzgur)
 * [Twitter @QuilibriumHub](https://x.com/QuilibriumHub)
