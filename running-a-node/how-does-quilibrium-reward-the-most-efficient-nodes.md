@@ -47,6 +47,10 @@ If penalties accumulate significantly, provers in the outer rings of the given s
 
 This system ensures network stability while providing flexibility for necessary maintenance and hardware migrations.
 
+{% hint style="info" %}
+See [https://docs.quilibrium.one/start/useful-commands](https://docs.quilibrium.one/start/useful-commands) for more info on the `qclient config prover pause command`
+{% endhint %}
+
 ### I changed peer keys and configurations over time, can I combine them for seniority? <a href="#h-i-changed-peer-keys-and-configurations-over-time-can-i-combine-them-for-seniority" id="h-i-changed-peer-keys-and-configurations-over-time-can-i-combine-them-for-seniority"></a>
 
 Many node operators experimented with different deployment strategies in order to maximize rewards as the network evolved.&#x20;
