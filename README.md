@@ -37,7 +37,7 @@ layout:
 
 * [Website](https://quilibrium.com/)
 * [Twitter @QuilibriumInc](https://x.com/QuilibriumInc)
-* [Warpcast](https://warpcast.com/\~/channel/quilibrium)
+* [Warpcast](https://warpcast.com/~/channel/quilibrium)
 * [Whitepaper](https://quilibrium.com/quilibrium.pdf)
 * [Github](https://github.com/quilibriumnetwork/)
 * [NFT](https://opensea.io/collection/long-live-the-internet)
@@ -51,9 +51,14 @@ _$QUIL, the original network token, will be transferrable after v2.0, it will pr
 
 * **wQUIL (ERC-20 token)**
 * Contract: [0x8143182a775c54578c8b7b3ef77982498866945d](https://etherscan.io/token/0x8143182a775c54578c8b7b3ef77982498866945d)
-* Buy on DEX: [Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH\&outputCurrency=0x8143182a775c54578c8b7b3ef77982498866945d)
-* Buy on CEX: [Coinex ](https://www.coinex.com/en/exchange/wquil-usdt)- [Bitkonan](https://www.bitkonan.com/trade/view/wquil\_usdt) - [XT.com](https://www.xt.com/en/trade/wquil\_usdt)
+* Coingecko:[ wQUIL](https://www.coingecko.com/en/coins/wrapped-quil)
 * Chart: [Dextools](https://www.dextools.io/app/en/ether/pair-explorer/0x43e7ade137b86798654d8e78c36d5a556a647224)
+* Buy on DEX: [Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH\&outputCurrency=0x8143182a775c54578c8b7b3ef77982498866945d)
+* Buy on CEX: [Coinex ](https://www.coinex.com/en/exchange/wquil-usdt)- [Bitkonan](https://www.bitkonan.com/trade/view/wquil_usdt) - [XT.com](https://www.xt.com/en/trade/wquil_usdt)
+
+{% hint style="info" %}
+Markets' list may be outdated. Check on [Coingecko](https://www.coingecko.com/en/coins/wrapped-quil) or [CoinMarketcap](https://coinmarketcap.com/currencies/wrapped-quil/#Markets) the updated lists.
+{% endhint %}
 
 ### Tokenomics <a href="#tokenomics" id="tokenomics"></a>
 
@@ -73,5 +78,5 @@ _$QUIL, the original network token, will be transferrable after v2.0, it will pr
 
 * [Deep dive in Quilibrium by the founder Cassandra Heart](https://www.youtube.com/watch?v=AeJ9sIK3R28)
 * [The "Alternative" Thesis of Consumer Crypto (backstory)](https://www.youtube.com/watch?v=GeuZsX6dC08)
-* [Quilibrium Overview: How does it tick? (technical)](https://www.youtube.com/watch?v=\_mO07gDTX7Q)
+* [Quilibrium Overview: How does it tick? (technical)](https://www.youtube.com/watch?v=_mO07gDTX7Q)
 * [Quilibrium Q\&A, Roadmap, High Level Explainer (technical)](https://www.youtube.com/watch?v=Ye677-FkgXE)
