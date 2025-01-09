@@ -62,11 +62,12 @@ Markets' list may be outdated. Check on [Coingecko](https://www.coingecko.com/en
 
 ### Tokenomics <a href="#tokenomics" id="tokenomics"></a>
 
+<figure><img src=".gitbook/assets/Q-emissions-curve.jpg" alt=""><figcaption><p><em>The above chart is a conservative estimation, based on comment from the development team. Actual emission rate will depend on network storage demands.</em></p></figcaption></figure>
+
+* [Emissions schedule and explanation](https://x.com/QuilibriumOne/status/1877302495497826438)
 * [Proof of meaningful work (article)](https://paragraph.xyz/@quilibrium.com/proof-of-meaningful-work)
-* [Emissions schedule](https://t.me/quilibrium/28194)
-* Circulating Supply (15.07.24): \~ 680 Millions
-* Daily emissions: 1.5 Millions (they will diminish according to network growth after 2.0)
-* Inflation: 2 Billions in 10 years
+* Circulating Supply (09.017.25): \~ 860 Millions
+* Inflation: 1.6 to 1.7 Billions in 2029
 * No VCs - No airdrop - No vesting
 
 ### Articles <a href="#articles" id="articles"></a>
