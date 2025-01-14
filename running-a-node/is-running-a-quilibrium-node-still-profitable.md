@@ -24,7 +24,7 @@ layout:
 This articles refers to 14.01.2025
 {% endhint %}
 
-**Right now, running Q nodes isn't profitable if you're not a pro miner and you're paying regular market prices for hardware rentals (no special deals). That's assuming you're actually counting your hardware rental as a cost (which not all miners do).**
+**Right now, running Q nodes isn't profitable if you're not a pro miner, and you're paying regular market prices for hardware rentals (no special deals).** The average prices we are referring to are in the range of providers like [Hostkey](https://quilibrium.one/go/hostkey) and [Interserver](https://quilibrium.one/go/interserver). That's assuming you're actually counting your hardware rental as a cost (which not all miners do).
 
 **This is due to several factors:** \
 Q price being oversold, rewards being dramatically reduced in v2.0, the new "prover ring" system, bugs causing the proof landing rate to be reduced, and increased competition due to big miners joining the project.&#x20;
