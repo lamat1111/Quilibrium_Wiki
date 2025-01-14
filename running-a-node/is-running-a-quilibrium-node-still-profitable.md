@@ -21,12 +21,12 @@ layout:
 # Is running a Quilibrium node still profitable?
 
 {% hint style="info" %}
-This articles refers to 27.11.2024
+This articles refers to 14.01.2025
 {% endhint %}
 
-**Right at this moment, it is not profitable to run Q nodes for most node runners.**&#x20;
+**Right now, running Q nodes isn't profitable if you're not a pro miner and you're paying regular market prices for hardware rentals (no special deals). That's assuming you're actually counting your hardware rental as a cost (which not all miners do).**
 
-This is due to several factors: \
+**This is due to several factors:** \
 Q price being oversold, rewards being dramatically reduced in v2.0, the new "prover ring" system, bugs causing the proof landing rate to be reduced, and increased competition due to big miners joining the project.&#x20;
 
 Things could shift again in 2.1 as the prover ring system will change, with many more rings being available and a more complex rewards system. Hopefully, most bugs will be resolved too. If you are thinking about starting a node right now, you should expect the node to mine at a loss for a few months.\
