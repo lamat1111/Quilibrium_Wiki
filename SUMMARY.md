@@ -9,7 +9,7 @@
 * [How Quilibrium keeps decentralization?](how-quilibrium-keeps-decentralization.md)
 * [How does Quilibrium preserve privacy without opening the doors to criminal activities?](how-does-quilibrium-preserve-privacy-without-opening-the-doors-to-criminal-activities.md)
 * [Quilibrium qualifies as "decentralized protocol"](quilibrium-qualifies-as-decentralized-protocol.md)
-* [Gas prices on Quilibrium](gas-prices-on-quilibrium.md)
+* [Gas fees and dynamic fee market on Quilibrium](gas-fees-and-dynamic-fee-market-on-quilibrium.md)
 * [How fast is Quilibrium?](how-fast-is-quilibrium.md)
 * [Quilibrium explained like I am 5 :-)](https://paragraph.xyz/@quilibrium.com/eli5-quilibrium)
 * [Quilibrium's innovative use of passkeys](quilibriums-innovative-use-of-passkeys.md)
