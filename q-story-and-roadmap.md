@@ -43,7 +43,7 @@ Rolling out the Ethereum bridge first version, to allow early node runners to cl
 
 ### 🌃 Midnight (mainnet)
 
-📅 October 2024\
+📅 Q1 2025\
 Final phase of "Dusk": entering full stealth mode. Now node runners can mint and transfer the QUIL token, and builders can create and launch apps on Quilibrium.
 
 ### ☯️ Equinox
