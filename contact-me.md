@@ -1,4 +1,5 @@
 ---
+icon: envelope
 cover: >-
   https://images.unsplash.com/photo-1534536281715-e28d76689b4d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb250YWN0fGVufDB8fHx8MTcxODcxNTIwNXww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 📩 Contact Me
+# Contact Me
 
 #### If you want to get in touch with me  write to [quilibrium.one@rainbowlife.mailer.me](mailto:quilibrium.one@rainbowlife.mailer.me)
 
