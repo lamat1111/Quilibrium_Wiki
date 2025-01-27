@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Links & Info](README.md)
+* [Start here](README.md)
+* [Links & Info](<README (1).md>)
 * [FAQ](faq.md)
 * [WTF is Quilibrium?](wtf-is-quilibrium.md)
 * [Q Story and Roadmap](q-story-and-roadmap.md)
