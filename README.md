@@ -1,14 +1,14 @@
 ---
+icon: play
 description: >-
   Welcome to this unofficial collection of articles exploring Quilibrium and its
   fascinating technologies.
-icon: play
-cover: .gitbook/assets/long_live_the_internet.jpg
-coverY: 144
+cover: .gitbook/assets/digital-ecosistem-earth.jpg
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
