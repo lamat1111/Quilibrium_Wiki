@@ -26,6 +26,10 @@ We believe that previous attempts to achieve this through trusted institutions h
 
 **To address these issues, we need to decentralize the web securely—servers, storage, and traffic alike. This is no small challenge, and solving it requires robust, hard-tech solutions.**
 
+{% hint style="info" %}
+[Cassandra Heart](https://warpcast.com/cassie), Q founder and lead dev, began to work on this idea in 2018 and since then a lot has been accomplished (see the [Q story](q-story-and-roadmap.md)).
+{% endhint %}
+
 ### How Does Q Differ from Other Attempts?
 
 Historically, there have been several notable “world computer” projects, each with its own strengths and limitations:
