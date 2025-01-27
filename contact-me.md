@@ -21,8 +21,8 @@ layout:
 
 # Contact Me
 
-#### If you want to get in touch with me  write to [quilibrium.one@rainbowlife.mailer.me](mailto:quilibrium.one@rainbowlife.mailer.me)
+#### If you want to get in touch with me, write to [quilibrium.one@rainbowlife.mailer.me](mailto:quilibrium.one@rainbowlife.mailer.me) or send a PM on Telegram (user: [lamat1111](https://t.me/lamat1111))
 
-You can also connect with me on the [Quilibrium Forum](https://quilibrium.discourse.group/u/lamat/activity), or the [Community Telegram](https://t.me/quilibrium) (user: @nicanacin), but if you want to help me with improvements to the articles here, the best way is to send an email.
+If you want to simply connect/follow, all my social links [are here](https://linktr.ee/lamat1111).
 
 _LaMat_
