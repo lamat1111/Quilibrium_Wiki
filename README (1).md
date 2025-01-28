@@ -65,7 +65,7 @@ Markets' list may be outdated. Check on [Coingecko](https://www.coingecko.com/en
 
 * [Emissions schedule and explanation](https://x.com/QuilibriumOne/status/1877302495497826438)
 * [Proof of meaningful work (article)](https://paragraph.xyz/@quilibrium.com/proof-of-meaningful-work)
-* Circulating Supply (09.017.25): \~ 860 Millions
+* Circulating Supply (28.01.25): \~ 1.2 Billions
 * Inflation: 1.6 to 1.7 Billions in 2029
 * No VCs - No airdrop - No vesting
 
