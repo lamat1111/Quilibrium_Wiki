@@ -12,6 +12,7 @@
 * [Gas fees and dynamic fee market on Quilibrium](gas-fees-and-dynamic-fee-market-on-quilibrium.md)
 * [How fast is Quilibrium?](how-fast-is-quilibrium.md)
 * [Quilibrium's innovative use of passkeys](quilibriums-innovative-use-of-passkeys.md)
+* [A data storage solution built for maximum security](a-data-storage-solution-built-for-maximum-security.md)
 * [Core Technologies in Quilibrium](core-technologies-in-quilibrium.md)
 * [Programmable MPC vs ZKP](programmable-mpc-vs-zkp.md)
 * [Q vs ETH vs SOL](q-vs-eth-vs-sol.md)
