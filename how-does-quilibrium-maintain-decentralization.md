@@ -43,9 +43,7 @@ Quilibrium **2.1** introduces a new model called **Proof of Meaningful Work (PMW
 * **Power Concentration** – A few large entities effectively **decide how the network operates**.
 * **Hardware Barrier** – Small miners **can’t compete**, making mining **only profitable for big corporations**.
 
-***
-
-### **Quilibrium’s Solution: Proof of Meaningful Work (PMW)**
+#### **Quilibrium’s Solution: Proof of Meaningful Work (PMW)**
 
 Quilibrium **2.1** completely redesigns the mining system to prevent these issues. Instead of a **single winner-takes-all model**, it:
 
@@ -71,9 +69,7 @@ Miners working within a shard must generate **specific cryptographic proofs** re
 
 By combining **sharded data structures, unique proof requirements, and cryptographic validation**, Quilibrium 2.1 ensures that mining remains **fair, distributed, and resistant to monopolization**.
 
-***
-
-### **Difficulty Calibration – Adapting Mining Based on Hardware**
+#### **Difficulty Calibration – Adapting Mining Based on Hardware**
 
 One issue with **Bitcoin** is that it only rewards those who have **the most powerful and expensive computers**.
 
@@ -86,9 +82,7 @@ One issue with **Bitcoin** is that it only rewards those who have **the most pow
 * **People with basic computers can still mine**, making Quilibrium more accessible.
 * No single **type of hardware gives an unfair advantage**, reducing the risk of centralization.
 
-***
-
-### **Adaptive Issuance Model – Preventing Long-Term Centralization**
+#### **Adaptive Issuance Model – Preventing Long-Term Centralization**
 
 A major issue in Bitcoin is that **mining rewards decrease over time**, making it increasingly difficult for new miners to participate. As mining becomes less profitable, **fewer people secure the network**, leading to centralization among the most powerful miners and a decline in security. This is known as Bitcoin’s **"shrinking security budget"** problem, where **fewer miners means a weaker, more vulnerable network**​.
 
