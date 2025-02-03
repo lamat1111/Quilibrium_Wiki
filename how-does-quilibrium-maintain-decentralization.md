@@ -18,36 +18,92 @@ layout:
     visible: true
 ---
 
-# How Quilibrium keeps decentralization?
+# How does Quilibrium maintain decentralization?
 
-In many cryptocurrencies, agreement depends on blocks of data arranged in a straight line, with more powerful machines (either through raw computing power or staked tokens) having the most influence. This often leads to a tendency to centralize around those who spend the most money, which isn't good for keeping the system decentralized. For example, Bitcoin is mostly controlled by big mining groups, and Ethereum is moving towards a system where its main token is being replaced by easier-to-use tokens and methods.
+One of the biggest problems in **blockchain mining** is **centralization**—where a small number of **powerful miners** dominate the network and control most of the rewards. This happens in **Bitcoin** and other Proof-of-Work (PoW) systems because of how mining rewards are distributed.
 
-What sets Quilibrium apart is how it handles agreement among users. Unlike other systems, in Quilibrium, reaching agreement globally doesn't require expensive hardware. Even a simple device like a Raspberry Pi can do the necessary calculations. The main clock, which keeps track of time, doesn't even need to do these calculations because it's easy to verify its accuracy. Instead, these devices can focus on storing data and providing evidence for information that doesn't change often, like long-term storage of unchangeable data.
-
-So, the type of hardware that's successful in mining on the Quilibrium network can vary widely because the network allows for different levels of complexity in applications. This flexibility is something that other networks can't achieve because of their designs.
-
-<figure><img src="https://images.unsplash.com/photo-1599344941911-9caa7fd29ff5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxRfGVufDB8fHx8MTcxODc4MjU5NHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
-
-## How Q solves some common centralization problems
-
-By [Cassandra Heart](https://quilibrium.discourse.group/u/cassie/summary) - Source: [Quilibrium forum](https://quilibrium.discourse.group/t/why-quilibrium-is-a-big-deal/17/4?u=lamat)
+Quilibrium **2.1** introduces a new model called **Proof of Meaningful Work (PMW)** that **fundamentally changes how mining works**. Instead of allowing **a few large players to dominate**, it ensures that mining rewards are **fairly distributed among many participants**, keeping the network **decentralized, secure, and resistant to manipulation**.
 
 ***
 
-### **MEV**
+### **The Problem: How Traditional PoW Leads to Centralization**
 
-MEV is an issue on Ethereum because the mempool is transparent and shared. Some RPC providers help sidestep this by having private mempools, at the expense of your transaction being incorporated in the block chain only when those providers are the block producer. Quilibrium does not have a public mempool, transactions themselves are private, and transaction routing in 2.0 is achieved through the use of RPM, a technique involving random permutation matrices (hence its initialism), which performs secure matrix multiplication to shuffle the set of transactions being routed such that origin and destination are unlinkable even at the analytical level by passive or active adversaries.
+#### **How Bitcoin & Other PoW Networks Become Centralized**
 
-### **Sequencer Centralization**
+* In **Bitcoin**, miners compete to solve **mathematical puzzles** to add blocks to the blockchain.
+* The **first miner to solve the puzzle wins** and gets the entire reward.
+* **Larger mining pools** (with more computing power) have a **higher chance of winning**, so:
+  * **Small miners** almost **never win** and **join large mining pools** to get a share of rewards.
+  * Over time, **a few mining pools control most of the network**.
+  * Today, **the top 6 Bitcoin mining pools** control **over 80% of the network**, making it less decentralized.
 
-Layer 2 centralization is multifaceted – the root cause entirely depends on the construction it uses, and the degree of how severe that centralization is also matters. One example that I have been particularly critical towards previously (in fact, it was one of the main motivations for why I quit Coinbase) is in the form of Optimism’s (and OP forks like Base) optimistic rollups scheme. Until very recently, OP mainnet did not have even fraud/fault proofs, and the only form of viable censorship resistance was strictly from the L1 to the L2 via forced inclusion. While this situation has improved, there are still deficiencies, including ones outside of the scope of L2Beat/Vitalik’s codified stages, but creating an exhaustive list would not serve this reply well. Quilibrium, in terms of Ethereum parlance, can be seen as a hybrid of L1 and L2 approaches into a singular network, except the L1 is strictly global consensus, the L2s are the individual shards with separate data availability and cross-shard messaging. The core shards are necessarily not able to become centralized – they will in fact induce shard halts if they fall under the threshold for minimum replication, whether caused by network failure or intentional exit from replication.
+#### **Why This is Dangerous**
 
-There are other aspects of Ethereum itself suffering from centralization, we have designed the architecture of Quilibrium such that those centralization pressures are alleviated. This shows in two important examples: wallets and indexers.
+* **51% Attack Risk** – If one or two mining pools control the majority of the network, they could **manipulate transactions** or **double-spend coins**.
+* **Power Concentration** – A few large entities effectively **decide how the network operates**.
+* **Hardware Barrier** – Small miners **can’t compete**, making mining **only profitable for big corporations**.
 
-### **Wallets**
+***
 
-Ethereum necessarily has wallets because securing secp256k1 key material, interacting via web browsers, and reconciling state of accounts requires indirections. In particular, the key material problem has a parallel solution in web standards now (but did not exist in mainstream consumer devices until quite recently) – Passkeys/WebAuthN. Passkeys however utilizes different key types (primarily P-256), and the signature’s message format differs from Ethereum, which produces a significant technical debt burden to overcome, likely never in the form of supporting WebAuthN based EOAs in Ethereum. Browser interactions with wallets are also forcing a lot of trust into the wallet to properly deliver risk-bearing information to the end user: any website can offer transactions to a wallet that would (practically speaking) drain most assets. Despite large warning messages, people are often still tricked into signing transactions from malicious websites imitating official ones. Passkeys is a two-birds approach: the signature payload is not only managed by a secure enclave on the user’s hardware frequently with biometric auth, but the keys are intrinsically bound to their domain of origin – it requires cooperation between the originating domain and the domain wishing to use the key in order for it to be usable, drastically improving the state of security.
+### **Quilibrium’s Solution: Proof of Meaningful Work (PMW)**
 
-### **Indexers**
+Quilibrium **2.1** completely redesigns the mining system to prevent these issues. Instead of a **single winner-takes-all model**, it:
 
-Indexers are a necessary consequence of the expense of laying out data on the EVM in an efficiently queryable form being too high. These indexers are a centralizing force, leaving many to use a handful of centralized providers. The hypergraph structure of Quilibrium is intentionally designed using the RDF Hypergraph approach outlined in [“Hypergraph based query optimization”](https://ieeexplore.ieee.org/document/7218100), which facilitates building efficient indexes according to the structured format of the data implicitly on the network itself.
+1. **Splits mining tasks into small, unique shards**
+2. **Makes every miner do verifiable work**, preventing fake participation
+3. **Incentivizes decentralization by preventing mining pool dominance**
+
+***
+
+### **How Quilibrium 2.1 Prevents Centralization**
+
+**Data Sharding – Distributing Mining Across the Network**
+
+Quilibrium 2.1 introduces a **sharded mining structure**, where the network is broken into **millions of potential shards** (approximately 2.5 million at the transition phase). Instead of having all miners compete to process the same dataset, **data is distributed across multiple shards, each containing a portion of the network state**. Miners can choose which shards to work on, but each shard has its own **unique proof structure**, making it computationally expensive to dominate multiple shards at once.
+
+Miners working within a shard must generate **specific cryptographic proofs** related to the data in that shard. The nature of these proofs ensures that simply increasing computational power does not guarantee dominance, as miners must **store and process verifiable data unique to each shard**. While miners are not strictly assigned to a single shard, **the cost and complexity of proving across multiple shards create a natural decentralization effect**.
+
+**Why This Prevents Centralization:**
+
+* **Large mining pools cannot dominate the network easily** because each shard requires **separate verifiable work**, making it inefficient for a single entity to take control.
+* **Smaller miners remain competitive** since they are not forced to compete with the entire network, but rather work within **localized proof structures** that make it harder for large players to outscale them.
+* **Sharded proofs and encryption mechanisms prevent miners from faking multiple identities**, ensuring that decentralization remains intact.
+
+By combining **sharded data structures, unique proof requirements, and cryptographic validation**, Quilibrium 2.1 ensures that mining remains **fair, distributed, and resistant to monopolization**.
+
+***
+
+### **Difficulty Calibration – Adapting Mining Based on Hardware**
+
+One issue with **Bitcoin** is that it only rewards those who have **the most powerful and expensive computers**.
+
+* In Quilibrium **2.1**, the **difficulty of mining adjusts based on the hardware used**.
+* **Low-power miners (like Raspberry Pi devices) can still participate**, but they **work on smaller tasks**.
+* High-power machines **are given more difficult tasks**, but **they don’t dominate all rewards**.
+
+**Why This Prevents Centralization:**
+
+* **People with basic computers can still mine**, making Quilibrium more accessible.
+* No single **type of hardware gives an unfair advantage**, reducing the risk of centralization.
+
+***
+
+### **Adaptive Issuance Model – Preventing Long-Term Centralization**
+
+A major issue in Bitcoin is that **mining rewards decrease over time**, making it increasingly difficult for new miners to participate. As mining becomes less profitable, **fewer people secure the network**, leading to centralization among the most powerful miners and a decline in security. This is known as Bitcoin’s **"shrinking security budget"** problem, where **fewer miners means a weaker, more vulnerable network**​.
+
+Quilibrium 2.1 solves this issue with a **dynamic issuance model** that adapts based on real-time network conditions. Instead of simply halving rewards like Bitcoin, Quilibrium **tracks computational power growth using Verifiable Delay Functions (VDFs)**. These functions measure how fast the network processes data, allowing Quilibrium to **adjust mining rewards at specific growth milestones** rather than at rigid time intervals​.
+
+Every time the network reaches a **new computational threshold** (e.g., when the number of verified computations reaches 100 million iterations), Quilibrium **unlocks a new generation of token issuance**. This ensures that mining **remains profitable even as computing power evolves**, keeping participation strong and preventing centralization​.
+
+#### **How This Prevents Centralization**
+
+* **Mining incentives remain strong over time**, preventing a collapse in miner participation.
+* **New miners can still enter the system**, unlike in Bitcoin, where later miners face diminishing returns.
+* **The network adjusts dynamically**, meaning rewards don’t favor early adopters disproportionately.
+
+By making token issuance **responsive to real-world computing power** rather than a **fixed halving schedule**, Quilibrium ensures **a long-term sustainable mining ecosystem** that **stays decentralized and secure**.
+
+***
+
+By combining **data sharding, unique proofs, verifiable encryption, adaptive rewards, and difficulty calibration**, Quilibrium **ensures true decentralization**, making it **impossible for a few big players to take over the network**.&#x20;

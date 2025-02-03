@@ -8,6 +8,7 @@
 * [Q Story and Roadmap](q-story-and-roadmap.md)
 * [What types of applications can we develop on Quilibrium?](what-types-of-applications-can-we-develop-on-quilibrium.md)
 * [How does Quilibrium maintain decentralization?](how-does-quilibrium-maintain-decentralization.md)
+* [How Q solve some common centralization problems.](how-q-solve-some-common-centralization-problems..md)
 * [How does Quilibrium preserve privacy without opening the doors to criminal activities?](how-does-quilibrium-preserve-privacy-without-opening-the-doors-to-criminal-activities.md)
 * [Quilibrium qualifies as "decentralized protocol"](quilibrium-qualifies-as-decentralized-protocol.md)
 * [Gas fees and dynamic fee market on Quilibrium](gas-fees-and-dynamic-fee-market-on-quilibrium.md)
