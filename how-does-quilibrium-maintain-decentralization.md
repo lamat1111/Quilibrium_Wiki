@@ -53,9 +53,9 @@ Quilibrium **2.1** completely redesigns the mining system to prevent these issue
 
 ***
 
-### **How Quilibrium 2.1 Prevents Centralization**
+## **How Quilibrium 2.1 Prevents Centralization**
 
-**Data Sharding – Distributing Mining Across the Network**
+### **Data Sharding – Distributing Mining Across the Network**
 
 Quilibrium 2.1 introduces a **sharded mining structure**, where the network is broken into **millions of potential shards** (approximately 2.5 million at the transition phase). Instead of having all miners compete to process the same dataset, **data is distributed across multiple shards, each containing a portion of the network state**. Miners can choose which shards to work on, but each shard has its own **unique proof structure**, making it computationally expensive to dominate multiple shards at once.
 
@@ -67,22 +67,18 @@ Miners working within a shard must generate **specific cryptographic proofs** re
 * **Smaller miners remain competitive** since they are not forced to compete with the entire network, but rather work within **localized proof structures** that make it harder for large players to outscale them.
 * **Sharded proofs and encryption mechanisms prevent miners from faking multiple identities**, ensuring that decentralization remains intact.
 
-By combining **sharded data structures, unique proof requirements, and cryptographic validation**, Quilibrium 2.1 ensures that mining remains **fair, distributed, and resistant to monopolization**.
-
-#### **Difficulty Calibration – Adapting Mining Based on Hardware**
+### **Difficulty Calibration – Adapting Mining Based on Hardware**
 
 One issue with **Bitcoin** is that it only rewards those who have **the most powerful and expensive computers**.
 
-* In Quilibrium **2.1**, the **difficulty of mining adjusts based on the hardware used**.
-* **Low-power miners (like Raspberry Pi devices) can still participate**, but they **work on smaller tasks**.
-* High-power machines **are given more difficult tasks**, but **they don’t dominate all rewards**.
+In Quilibrium **2.1**, the **difficulty of mining adjusts based on the hardware used**. **Low-power miners (like Raspberry Pi devices) can still participate**, but they **work on smaller tasks**. High-power machines **are given more difficult tasks**, but **they don’t dominate all rewards**.
 
 **Why This Prevents Centralization:**
 
 * **People with basic computers can still mine**, making Quilibrium more accessible.
 * No single **type of hardware gives an unfair advantage**, reducing the risk of centralization.
 
-#### **Adaptive Issuance Model – Preventing Long-Term Centralization**
+### **Adaptive Issuance Model – Preventing Long-Term Centralization**
 
 A major issue in Bitcoin is that **mining rewards decrease over time**, making it increasingly difficult for new miners to participate. As mining becomes less profitable, **fewer people secure the network**, leading to centralization among the most powerful miners and a decline in security. This is known as Bitcoin’s **"shrinking security budget"** problem, where **fewer miners means a weaker, more vulnerable network**​.
 
