@@ -43,7 +43,7 @@ Quilibrium **2.1** introduces a new model called **Proof of Meaningful Work (PoM
 * **Power Concentration** – A few large entities effectively **decide how the network operates**.
 * **Hardware Barrier** – Small miners **can’t compete**, making mining **only profitable for big corporations**.
 
-#### **Quilibrium’s Solution: Proof of Meaningful Work (PMW)**
+#### **Quilibrium’s Solution: Proof of Meaningful Work (PoMW)**
 
 Quilibrium **2.1** completely redesigns the mining system to prevent these issues. Instead of a **single winner-takes-all model**, it:
 
