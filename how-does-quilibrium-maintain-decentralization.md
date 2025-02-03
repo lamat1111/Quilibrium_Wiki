@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxuZXR3b3JrfGVufDB8fHx8MTcxODcxNDEwNHww&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1639322537504-6427a16b0a28?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxkZWNlbnRyYWxpemVkfGVufDB8fHx8MTczODU5Mzk1Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -22,7 +22,7 @@ layout:
 
 One of the biggest problems in **blockchain mining** is **centralization**—where a small number of **powerful miners** dominate the network and control most of the rewards. This happens in **Bitcoin** and other Proof-of-Work (PoW) systems because of how mining rewards are distributed.
 
-Quilibrium **2.1** introduces a new model called **Proof of Meaningful Work (PMW)** that **fundamentally changes how mining works**. Instead of allowing **a few large players to dominate**, it ensures that mining rewards are **fairly distributed among many participants**, keeping the network **decentralized, secure, and resistant to manipulation**.
+Quilibrium **2.1** introduces a new model called **Proof of Meaningful Work (PoMW)** that **fundamentally changes how mining works**. Instead of allowing **a few large players to dominate**, it ensures that mining rewards are **fairly distributed among many participants**, keeping the network **decentralized, secure, and resistant to manipulation**.
 
 ***
 
