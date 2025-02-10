@@ -4,6 +4,7 @@
 * [Links & Info](<README (1).md>)
 * [FAQ](faq.md)
 * [WTF is Quilibrium?](wtf-is-quilibrium.md)
+* [Quilibrium tokenomics](quilibrium-tokenomics.md)
 * [A data storage solution built for maximum security](a-data-storage-solution-built-for-maximum-security.md)
 * [Q Story and Roadmap](q-story-and-roadmap.md)
 * [What types of applications can we develop on Quilibrium?](what-types-of-applications-can-we-develop-on-quilibrium.md)
