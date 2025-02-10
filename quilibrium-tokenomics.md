@@ -30,14 +30,16 @@ $QUIL tokens can only be mined. There was no allocation to VCs, and no airdrops.
 ### Token emissions for the current generation
 
 {% hint style="info" %}
-The current generation will last until 100 millions iterations are reached. This is estimated to happen around 2033.
+The current generation will last until 100 millions iterations are reached. This is roughly estimated to happen around 2033.
 {% endhint %}
 
 * Circulating Supply (10.02.25): \~ 1.3 Billions - please see the [dashboard](https://dashboard.quilibrium.com/) for the most updated value
-* Inflation: 1.6 to 1.7 Billions in 2033
+* Inflation: 1.6 to 1.7 Billions in 2033 (estimation)
 * Token emissions diminish according to network growth (storage demands)
 
 <figure><img src=".gitbook/assets/Q-emissions-curve.jpg" alt=""><figcaption><p><em>The above chart is a conservative estimation, based on comment from the development team. Actual emission rate will depend on network storage demands.</em></p></figcaption></figure>
+
+***
 
 ### wQUIL token <a href="#buy-token" id="buy-token"></a>
 
@@ -59,7 +61,7 @@ The network’s core **Verifiable Delay Function (VDF)** determines the computat
 
 The network launched with **10,000 iterations taking \~10 seconds** per iteration. The current iteration speed is **\~160,000 iterations in the same time window** (implying \~16x improvement so far).
 
-The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to happen around 2033, as both hardware and software become more efficient.
+The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation
 
 #### **Generational thresholds:**
 
