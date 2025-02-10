@@ -53,7 +53,7 @@ _$QUIL, the original network token._
 * Coingecko:[ wQUIL](https://www.coingecko.com/en/coins/wrapped-quil)
 * Chart: [Dextools](https://www.dextools.io/app/en/ether/pair-explorer/0x43e7ade137b86798654d8e78c36d5a556a647224)
 * Buy on DEX: [Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH\&outputCurrency=0x8143182a775c54578c8b7b3ef77982498866945d)
-* Buy on CEX: [MEXC](https://www.mexc.com/it-IT/exchange/WQUIL_USDT) - [Coinex ](https://www.coinex.com/en/exchange/wquil-usdt)- [Bitkonan](https://www.bitkonan.com/trade/view/wquil_usdt) - [XT.com](https://www.xt.com/en/trade/wquil_usdt)
+* Buy on CEX: [MEXC](https://www.mexc.com/it-IT/exchange/WQUIL_USDT) - [Coinex ](https://www.coinex.com/en/exchange/wquil-usdt)- [Bitkonan](https://www.bitkonan.com/trade/view/wquil_usdt)
 
 {% hint style="info" %}
 Markets' list may be outdated. Check on [Coingecko](https://www.coingecko.com/en/coins/wrapped-quil) or [CoinMarketcap](https://coinmarketcap.com/currencies/wrapped-quil/#Markets) the updated lists.
@@ -63,7 +63,7 @@ Markets' list may be outdated. Check on [Coingecko](https://www.coingecko.com/en
 
 <figure><img src=".gitbook/assets/Q-emissions-curve.jpg" alt=""><figcaption><p><em>The above chart is a conservative estimation, based on comment from the development team. Actual emission rate will depend on network storage demands.</em></p></figcaption></figure>
 
-* [Emissions schedule and explanation](https://x.com/QuilibriumOne/status/1877302495497826438)
+* [quilibrium-tokenomics.md](quilibrium-tokenomics.md "mention")
 * [Proof of meaningful work (article)](https://paragraph.xyz/@quilibrium.com/proof-of-meaningful-work)
 * Circulating Supply (28.01.25): \~ 1.2 Billions
 * Inflation: 1.6 to 1.7 Billions in 2029
