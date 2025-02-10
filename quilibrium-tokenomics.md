@@ -36,6 +36,7 @@ The current generation will last until 100 millions iterations are reached. This
 * Circulating Supply (10.02.25): \~ 1.3 Billions - please see the [dashboard](https://dashboard.quilibrium.com/) for the most updated value
 * Inflation: 1.6 to 1.7 Billions in 2033 (estimation)
 * Token emissions diminish according to network growth (storage demands)
+* As the network grows and emissions flatten out in each generation, transaction fees play a bigger role in miner incentives. See also [gas-fees-and-dynamic-fee-market-on-quilibrium.md](gas-fees-and-dynamic-fee-market-on-quilibrium.md "mention")
 
 <figure><img src=".gitbook/assets/Q-emissions-curve.jpg" alt=""><figcaption><p><em>The above chart is a conservative estimation, based on comment from the development team. Actual emission rate will depend on network storage demands.</em></p></figcaption></figure>
 
@@ -61,7 +62,7 @@ The network’s core **Verifiable Delay Function (VDF)** determines the computat
 
 The network launched with **10,000 iterations taking \~10 seconds** per iteration. The current iteration speed is **\~160,000 iterations in the same time window** (implying \~16x improvement so far).
 
-The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation
+The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation.
 
 #### **Generational thresholds:**
 
