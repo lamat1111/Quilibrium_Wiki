@@ -64,6 +64,20 @@ The network launched with \~10,000 iterations per \~10 seconds. The current iter
 
 The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation.
 
+<details>
+
+<summary>What are "iterations" ?</summary>
+
+An **iteration** in Quilibrium refers to a single step in the network’s **Verifiable Delay Function (VDF)**, which is a way to prove that time has passed.&#x20;
+
+Since this function cannot be sped up by running multiple calculations in parallel, each iteration must be completed one after another, making it a reliable measure of computational progress.&#x20;
+
+The faster the network can process these iterations, the more powerful the hardware running it has become. When the network reaches a set number of iterations, like **100 million**, it triggers a new generation of token emissions.&#x20;
+
+Essentially, an iteration is a basic unit of work that helps secure the network and determines when new tokens are released.
+
+</details>
+
 #### **Generational thresholds:**
 
 * **Generation 1 (current)**
