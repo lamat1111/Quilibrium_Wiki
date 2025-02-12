@@ -10,7 +10,7 @@
 * [What types of applications can we develop on Quilibrium?](what-types-of-applications-can-we-develop-on-quilibrium.md)
 * [How does Quilibrium maintain decentralization?](how-does-quilibrium-maintain-decentralization.md)
 * [How Quilibrium Fixes Some Common Problems with Centralization](how-quilibrium-fixes-some-common-problems-with-centralization.md)
-* [How does Quilibrium preserve privacy without opening the doors to criminal activities?](how-does-quilibrium-preserve-privacy-without-opening-the-doors-to-criminal-activities.md)
+* [How Quilibrium Protects Privacy Without Enabling Crime](how-quilibrium-protects-privacy-without-enabling-crime.md)
 * [Quilibrium qualifies as "decentralized protocol"](quilibrium-qualifies-as-decentralized-protocol.md)
 * [Gas fees and dynamic fee market on Quilibrium](gas-fees-and-dynamic-fee-market-on-quilibrium.md)
 * [How fast is Quilibrium?](how-fast-is-quilibrium.md)
