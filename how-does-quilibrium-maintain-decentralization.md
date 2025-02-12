@@ -86,6 +86,8 @@ Quilibrium 2.1 solves this issue with a **dynamic issuance model** that adapts b
 
 Every time the network reaches a **new computational threshold** (e.g., when the number of verified computations reaches 100 million iterations), Quilibrium **unlocks a new generation of token issuance**. This ensures that mining **remains profitable even as computing power evolves**, keeping participation strong and preventing centralization​.
 
+To learn more about this adaptive issuance model, see [quilibrium-tokenomics.md](quilibrium-tokenomics.md "mention").
+
 #### **How This Prevents Centralization**
 
 * **Mining incentives remain strong over time**, preventing a collapse in miner participation.
