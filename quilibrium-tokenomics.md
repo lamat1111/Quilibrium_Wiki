@@ -60,7 +60,7 @@ _Markets’ list may be outdated. Check on_ [_Coingecko_](https://www.coingecko.
 
 The network’s core **Verifiable Delay Function (VDF)** determines the computational threshold for each generation.&#x20;
 
-The network launched with **10,000 iterations taking \~10 seconds** per iteration. The current iteration speed is **\~160,000 iterations in the same time window** (implying \~16x improvement so far).
+The network launched with \~10,000 iterations per \~10 seconds. The current iteration speed (as of 12.02.2025) has improved to \~160,000 iterations, a 16x increase, though the exact time window now depends on hardware.
 
 The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation.
 
