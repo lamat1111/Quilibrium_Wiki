@@ -11,6 +11,7 @@
 * [How does Quilibrium maintain decentralization?](how-does-quilibrium-maintain-decentralization.md)
 * [How Quilibrium Fixes Some Common Problems with Centralization](how-quilibrium-fixes-some-common-problems-with-centralization.md)
 * [How Quilibrium Protects Privacy Without Enabling Crime](how-quilibrium-protects-privacy-without-enabling-crime.md)
+* [The Alternative Vision for Consumer Crypto](the-alternative-vision-for-consumer-crypto.md)
 * [Quilibrium qualifies as "decentralized protocol"](quilibrium-qualifies-as-decentralized-protocol.md)
 * [Gas fees and dynamic fee market on Quilibrium](gas-fees-and-dynamic-fee-market-on-quilibrium.md)
 * [How fast is Quilibrium?](how-fast-is-quilibrium.md)
