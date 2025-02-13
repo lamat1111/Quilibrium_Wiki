@@ -1,10 +1,16 @@
-# The Alternative Vision for Consumer Crypto
+# The Alternative Thesis for Consumer Crypto
 
-<figure><img src=".gitbook/assets/d976721df2592487f55da8d948ab6729.webp" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+This article is a summary of a longer talk by Cassandra Heart (Quilibrium founder). See the video below.
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=GeuZsX6dC08" %}
 
 ### The Evolution of Computing and Its Parallel in Crypto
 
 At Quilibrium, we believe that history doesn’t repeat, but it certainly rhymes. The evolution of computing offers a compelling parallel to the transformation happening in the crypto space today. Just as the personal computer revolution was driven by a relentless pursuit of making computing more accessible, we see a similar need to make blockchain technology more intuitive and usable for consumers.
+
+<figure><img src=".gitbook/assets/d976721df2592487f55da8d948ab6729.webp" alt=""><figcaption></figcaption></figure>
 
 ### Learning from the Past: The Homebrew Computer Club and the Rise of Personal Computing
 
@@ -44,12 +50,4 @@ This unlocks new possibilities, including:
 Just as the Apple II and Macintosh revolutionized personal computing by prioritizing usability and integration, we believe Quilibrium is paving the way for the next generation of consumer crypto. By taking inspiration from computing history, we are designing a blockchain ecosystem that puts users first, simplifies interactions, and enables a richer, more secure digital experience.
 
 The future of consumer crypto isn’t about making finance more complex—it’s about making digital interactions more seamless, private, and accessible. At Quilibrium, we’re committed to building that future.
-
-***
-
-{% hint style="info" %}
-This article is a summary of a longer talk by CAssandra Heart (Quilibrium founder). See the video below.
-{% endhint %}
-
-{% embed url="https://www.youtube.com/watch?v=GeuZsX6dC08" %}
 
