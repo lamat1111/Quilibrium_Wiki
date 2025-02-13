@@ -1,7 +1,7 @@
 # The Alternative Thesis for Consumer Crypto
 
 {% hint style="info" %}
-This article is a summary of a longer talk by Cassandra Heart (Quilibrium founder). See the video below.
+This article is a VERY SIMPLIFIED summary of a longer talk by Cassandra Heart (Quilibrium founder). See the video below to dive deeper into the topic.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=GeuZsX6dC08" %}
