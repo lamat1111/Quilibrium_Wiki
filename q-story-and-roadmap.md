@@ -41,7 +41,7 @@ Gradual roll out and testing of the components required for mainnet: Autoscaling
 📅 May 13, 2024 \
 Rolling out the Ethereum bridge first version, to allow early node runners to claim their hard-earned tokens as wrapped $QUIL ($wQUIL).
 
-### 🌃 Midnight (mainnet)
+### 🌃 Midnight (v2.1 - mainnet)
 
 📅 Q1 2025\
 Final phase of "Dusk": entering full stealth mode. Now node runners can mint and transfer the QUIL token, and builders can create and launch apps on Quilibrium.
