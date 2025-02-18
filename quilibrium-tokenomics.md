@@ -23,7 +23,7 @@ layout:
 For a detailed technical explanation please read this [article on Proof of Meaningful Work (PoMW)](https://paragraph.xyz/@quilibrium.com/proof-of-meaningful-work).
 {% endhint %}
 
-Quilibrium employs a **generational token issuance model** tied to the network’s computational progress, ensuring long-term sustainability and decentralization. Instead of a fixed emission schedule, rewards dynamically adjust based on network milestones.
+Quilibrium employs a generational token issuance model that dynamically adjusts based on network-wide computational progress, ensuring long-term sustainability and decentralization. Instead of a fixed emission schedule, new $QUIL emissions are triggered when the network surpasses predefined computational milestones.
 
 $QUIL is a utility token designed for use within the Quilibrium network. It is not intended for speculation, investment, or financial gain. Quilibrium Inc. does not endorse or facilitate any trading activities related to $QUIL or $wQUIL.
 
@@ -58,24 +58,22 @@ _Markets’ list may be outdated. Check on_ [_Coingecko_](https://www.coingecko.
 
 ***
 
-### Adaptive Emissions and Mining Incentives
+### **Adaptive Emissions and Generational Thresholds**
 
-Quilibrium’s token emissions adjust dynamically based on network-wide computational progress. Instead of following a fixed schedule, each new generation of $QUIL emissions is triggered when the network surpasses a predefined computational threshold, determined by the Verifiable Delay Function (VDF).
+Quilibrium’s emission model prevents mining centralization by ensuring that emissions adjust as computing power improves. Instead of a fixed schedule, emissions are tied to network difficulty, which increases as better hardware, optimized software, and improved algorithms enhance computational efficiency.
 
-As mining hardware improves and software optimizations increase efficiency, the network’s difficulty gradually rises. Once it reaches the next generational milestone (e.g., 100 million iterations for Generation 2), emissions temporarily spike before tapering off again. This approach prevents a Bitcoin-like scenario where mining becomes dominated by those with the most advanced hardware. Instead, Quilibrium’s model ensures that both early and later participants remain incentivized, fostering long-term decentralization.
+Each generational milestone temporarily increases emissions before tapering off again. This prevents a scenario where only the most advanced miners can compete, as seen in Bitcoin.
 
-### Token Emissions for Future Generations
+Quilibrium’s model ensures that both early and later participants remain incentivized, fostering long-term decentralization.
 
-The network launched with \~10,000 iterations per \~10 seconds. As of 12.02.2025, iteration speed has increased to \~160,000, a 16x improvement, though exact timing depends on hardware capabilities. The next milestone—100 million iterations—is estimated to be reached around 2033, unlocking a new emissions curve. However, the timeline may vary based on computational advancements and miner participation.
+#### **Current and Future Generations**
 
-**Generational Thresholds:**
-
-* **Generation 1 (Current)**
-* **Generation 2:** 100 million iterations → Estimated emissions reset in 2033
-* **Generation 3:** 1 trillion iterations
+* **Generation 1 (Current):** Launched with \~10,000 iterations per \~10 seconds. As of 12.02.2025, iteration speed has increased to \~160,000, a 16x improvement.
+* **Generation 2 (100M iterations):** Estimated emissions reset in 2033.
+* **Generation 3 (1T iterations):** Next milestone after Gen 2.
 * **Future Generations:** Growth follows an exponential scale (e.g., 10 quadrillion iterations, etc.).
 
-Each generational reset creates a temporary increase in emissions before returning to a gradual decline, ensuring sustained miner incentives and network security.
+Each generational reset results in a temporary emissions increase before gradually declining again, ensuring sustained miner incentives and long-term network security.
 
 <details>
 
