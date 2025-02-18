@@ -25,6 +25,8 @@ For a detailed technical explanation please read this [article on Proof of Meani
 
 Quilibrium employs a **generational token issuance model** tied to the network’s computational progress, ensuring long-term sustainability and decentralization. Instead of a fixed emission schedule, rewards dynamically adjust based on network milestones.
 
+$QUIL is a utility token designed for use within the Quilibrium network. It is not intended for speculation, investment, or financial gain. Quilibrium Inc. does not endorse or facilitate any trading activities related to $QUIL or $wQUIL.
+
 $QUIL tokens can only be mined. There was no allocation to VCs, and no airdrops.
 
 ### Token emissions for the current generation
@@ -56,13 +58,24 @@ _Markets’ list may be outdated. Check on_ [_Coingecko_](https://www.coingecko.
 
 ***
 
-### Token emissions for the next generations
+### Adaptive Emissions and Mining Incentives
 
-The network’s core **Verifiable Delay Function (VDF)** determines the computational threshold for each generation.&#x20;
+Quilibrium’s token emissions adjust dynamically based on network-wide computational progress. Instead of following a fixed schedule, each new generation of $QUIL emissions is triggered when the network surpasses a predefined computational threshold, determined by the Verifiable Delay Function (VDF).
 
-The network launched with \~10,000 iterations per \~10 seconds. The current iteration speed (as of 12.02.2025) has improved to \~160,000 iterations, a 16x increase, though the exact time window now depends on hardware.
+As mining hardware improves and software optimizations increase efficiency, the network’s difficulty gradually rises. Once it reaches the next generational milestone (e.g., 100 million iterations for Generation 2), emissions temporarily spike before tapering off again. This approach prevents a Bitcoin-like scenario where mining becomes dominated by those with the most advanced hardware. Instead, Quilibrium’s model ensures that both early and later participants remain incentivized, fostering long-term decentralization.
 
-The next milestone is 100 millions iterations, which will reset the current emissions and unlock a new emissions curve. This is expected to be reached around 2033, based on estimated hardware and software improvements. However, this timeline depends on actual computational advancements and miner participation.
+### Token Emissions for Future Generations
+
+The network launched with \~10,000 iterations per \~10 seconds. As of 12.02.2025, iteration speed has increased to \~160,000, a 16x improvement, though exact timing depends on hardware capabilities. The next milestone—100 million iterations—is estimated to be reached around 2033, unlocking a new emissions curve. However, the timeline may vary based on computational advancements and miner participation.
+
+**Generational Thresholds:**
+
+* **Generation 1 (Current)**
+* **Generation 2:** 100 million iterations → Estimated emissions reset in 2033
+* **Generation 3:** 1 trillion iterations
+* **Future Generations:** Growth follows an exponential scale (e.g., 10 quadrillion iterations, etc.).
+
+Each generational reset creates a temporary increase in emissions before returning to a gradual decline, ensuring sustained miner incentives and network security.
 
 <details>
 
@@ -77,15 +90,6 @@ The faster the network can process these iterations, the more powerful the hardw
 Essentially, an iteration is a basic unit of work that helps secure the network and determines when new tokens are released.
 
 </details>
-
-#### **Generational thresholds:**
-
-* **Generation 1 (current)**
-* **Generation 2:** **100 million iterations** → Next reset of emissions (approximately on 2033)
-* **Generation 3:** **1 trillion iterations**
-* **Future generations:** Growth follows an exponential scale (e.g., 10 quadrillion iterations, etc.).
-
-Each **new generation resets mining incentives**, creating short-term emission spikes before decay resumes.
 
 {% hint style="info" %}
 To understand why this adaptive issuance model is important, please read [how-does-quilibrium-maintain-decentralization.md](how-does-quilibrium-maintain-decentralization.md "mention")
