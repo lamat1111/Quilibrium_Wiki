@@ -80,21 +80,21 @@ In Quilibrium **2.1**, the **difficulty of mining adjusts based on the hardware 
 
 ### **Adaptive Issuance Model – Preventing Long-Term Centralization**
 
-A major issue in Bitcoin is that **mining rewards decrease over time**, making it increasingly difficult for new miners to participate. As mining becomes less profitable, **fewer people secure the network**, leading to centralization among the most powerful miners and a decline in security. This is known as Bitcoin’s **"shrinking security budget"** problem, where **fewer miners means a weaker, more vulnerable network**​.
+One of Bitcoin’s biggest challenges is the gradual reduction of mining rewards, which makes it increasingly difficult for new miners to compete. Over time, as profitability declines, mining becomes concentrated among those with the most powerful and efficient hardware, leading to centralization and a weaker security model. This is often referred to as Bitcoin’s "shrinking security budget" problem, where fewer active miners result in a less secure and more vulnerable network.
 
-Quilibrium 2.1 solves this issue with a **dynamic issuance model** that adapts based on real-time network conditions. Instead of simply halving rewards like Bitcoin, Quilibrium **tracks computational power growth using Verifiable Delay Functions (VDFs)**. These functions measure how fast the network processes data, allowing Quilibrium to **adjust mining rewards at specific growth milestones** rather than at rigid time intervals​.
+Quilibrium addresses this issue with a **dynamic issuance model** that adjusts mining rewards based on real-time computational progress rather than fixed time-based halvings. Instead of cutting emissions at set intervals, Quilibrium uses **Verifiable Delay Functions (VDFs)** to track the network’s processing power. These VDFs measure how quickly computations are performed, allowing the protocol to unlock new emissions phases when the network surpasses predefined computational milestones.
 
-Every time the network reaches a **new computational threshold** (e.g., when the number of verified computations reaches 100 million iterations), Quilibrium **unlocks a new generation of token issuance**. This ensures that mining **remains profitable even as computing power evolves**, keeping participation strong and preventing centralization​.
-
-To learn more about this adaptive issuance model, see [quilibrium-tokenomics.md](quilibrium-tokenomics.md "mention").
+For example, when the number of verified computations reaches **100 million iterations**, Quilibrium will trigger the next generation of emissions, creating a temporary spike in mining rewards before they gradually taper off again. This is estimated to happen around 2033, and it ensures that mining remains profitable as technology advances, preventing an arms race where only those with the most sophisticated hardware can compete.
 
 #### **How This Prevents Centralization**
 
-* **Mining incentives remain strong over time**, preventing a collapse in miner participation.
-* **New miners can still enter the system**, unlike in Bitcoin, where later miners face diminishing returns.
-* **The network adjusts dynamically**, meaning rewards don’t favor early adopters disproportionately.
+* **Sustained Mining Incentives:** Rewards adjust dynamically, preventing a sharp decline in miner participation over time.
+* **Fair Entry for New Miners:** Unlike Bitcoin, where later miners face diminishing returns, Quilibrium ensures that new participants still have opportunities to mine profitably.
+* **Balanced Rewards Across Generations:** Mining incentives are tied to actual network progress, preventing early adopters from having an unfair advantage over time.
 
-By making token issuance **responsive to real-world computing power** rather than a **fixed halving schedule**, Quilibrium ensures **a long-term sustainable mining ecosystem** that **stays decentralized and secure**.
+By making token issuance responsive to real-world computational advancements rather than enforcing artificial supply cuts, Quilibrium creates a more sustainable, decentralized, and secure mining ecosystem.
+
+To learn more about this adaptive issuance model, see [quilibrium-tokenomics.md](quilibrium-tokenomics.md "mention").
 
 ***
 

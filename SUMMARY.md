@@ -30,6 +30,7 @@
   * [How does Quilibrium reward the most efficient nodes?](running-a-node/how-does-quilibrium-reward-the-most-efficient-nodes.md)
   * [What are the most important factors in a node performance?](running-a-node/what-are-the-most-important-factors-in-a-node-performance.md)
   * [Proof of Meaningful Work (PoMW)](https://paragraph.xyz/@quilibrium.com/proof-of-meaningful-work)
+* [Brand kit](brand-kit.md)
 * [Work in progress](work-in-progress.md)
 * [Contact Me](contact-me.md)
 * [Want to say thank you?](want-to-say-thank-you.md)

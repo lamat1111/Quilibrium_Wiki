@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="852"
+   height="387"
+   viewBox="0 0 852 387"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Quorum_icon.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.47183099"
+     inkscape:cx="424.9403"
+     inkscape:cy="191.80597"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <path
+     d="M136.639 158.855L148.29 139.865L249.451 163.059L196.789 192.631L136.639 158.855Z"
+     fill="#FFDEAC"
+     stroke="#FFDEAC"
+     stroke-width="0.82798"
+     id="path3" />
+  <path
+     d="M196.789 192.631L136.504 226.484L149.039 245.609L249.451 222.198L196.789 192.631Z"
+     fill="#C89850"
+     stroke="#C89850"
+     stroke-width="0.828"
+     id="path4" />
+  <path
+     d="M136.623 158.889L116.18 192.349L116.365 192.633L116.045 193.134L136.505 226.485L196.79 192.633L136.641 158.857L136.623 158.889Z"
+     fill="#EFC78A"
+     stroke="#EFC78A"
+     stroke-width="0.82798"
+     id="path5" />
+  <path
+     d="M71 263.264C107.306 244.689 113.189 239.606 136.504 226.484C127.139 212.062 127.774 211.705 115.567 194.024C113.519 197.184 113.143 197.615 71 263.264Z"
+     fill="#C89850"
+     stroke="#C89850"
+     id="path6" />
+  <path
+     d="M148.064 245.73L137.002 227.294L72.8791 263.27L148.064 245.73Z"
+     fill="#A7772F"
+     stroke="#A7772F"
+     stroke-miterlimit="13.3"
+     id="path7" />
+  <path
+     d="M72.5308 122.056L136.621 158.887L149.575 140.278L72.5308 122.056Z"
+     fill="#C89850"
+     stroke="#C89850"
+     stroke-miterlimit="11.7"
+     id="path8" />
+  <path
+     d="M71.0014 122L115.555 192.374L136.855 158.946L71.0014 122Z"
+     fill="#A7772F"
+     stroke="#A7772F"
+     stroke-width="0.82798"
+     stroke-miterlimit="6.9"
+     id="path9" />
+</svg>
