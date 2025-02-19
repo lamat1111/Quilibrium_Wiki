@@ -19,7 +19,7 @@
 * [The Alternative Thesis for Consumer Crypto](the-alternative-thesis-for-consumer-crypto.md)
 * [Quilibrium WASM integration](quilibrium-wasm-integration.md)
 * [A data storage solution built for maximum security](a-data-storage-solution-built-for-maximum-security.md)
-* [A Cryptographically Secure Solution to Host ERP Systems](a-cryptographically-secure-solution-to-host-erp-systems.md)
+* [Hosting ERP Systems on the Quilibrium Network](a-cryptographically-secure-solution-to-host-erp-systems.md)
 * [Programmable MPC vs ZKP](programmable-mpc-vs-zkp.md)
 * [External articles](external-articles/README.md)
   * [Quilibrium explained like I am 5 :-)](https://paragraph.xyz/@quilibrium.com/eli5-quilibrium)
