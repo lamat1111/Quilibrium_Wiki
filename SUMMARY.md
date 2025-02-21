@@ -17,6 +17,7 @@
 * [How Quilibrium Protects Privacy Without Enabling Crime](how-quilibrium-protects-privacy-without-enabling-crime.md)
 * [Quilibrium's innovative use of passkeys](quilibriums-innovative-use-of-passkeys.md)
 * [The Alternative Thesis for Consumer Crypto](the-alternative-thesis-for-consumer-crypto.md)
+* [The Illusion of Decentralization in Crypto, and Quilibrium’s Radical Alternative.](the-illusion-of-decentralization-in-crypto-and-quilibriums-radical-alternative..md)
 * [Programmable MPC vs ZKP](programmable-mpc-vs-zkp.md)
 * [Quiibrium use cases](quiibrium-use-cases/README.md)
   * [Quilibrium WASM integration](quilibrium-wasm-integration.md)
