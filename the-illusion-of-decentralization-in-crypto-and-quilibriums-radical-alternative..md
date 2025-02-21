@@ -64,7 +64,7 @@ Recognizing the fundamental flaws in traditional blockchain networks, Quilibrium
 
 Quilibrium is not built on a traditional blockchain. Instead, it uses a network architecture based on parallelized, private execution to achieve instant finality at a global scale.
 
-* **No Centralized Mining or Staking**: Unlike Bitcoin and Ethereum, Quilibrium does not rely on mining pools or staking mechanisms that lead to centralization.
+* **No Centralized Mining or Staking**: Unlike Bitcoin and Ethereum, Quilibrium does not rely on giant mining pools or staking mechanisms that lead to centralization.
 * **Parallel Processing**: The network is designed to handle massive amounts of data simultaneously, making it more scalable than blockchains that require every transaction to be serialized.
 * **Private Execution**: Data is processed in a way that ensures privacy without relying on centralized intermediaries.
 
