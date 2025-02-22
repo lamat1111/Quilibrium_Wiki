@@ -1,6 +1,6 @@
 # FAQ
 
-General 2.0 FAQ
+General 2.1 FAQ
 
 <details>
 
@@ -32,17 +32,17 @@ It is important of many ways with some of the key highlights being:
 
 <details>
 
-<summary>What happens to wQUIL (ERC20) after the 2.0 launch?</summary>
+<summary>What happens to wQUIL (ERC20) after the 2.1 launch?</summary>
 
-wQUIL will remain active and transferrable/tradable as it is today. QUIL holders will continue to be able to bridge to wQUIL as they wish, and wQUIL holders will be able to bridge back to native QUIL with the 2.0 launch.
+wQUIL will remain active and transferrable/tradable as it is today. QUIL holders will continue to be able to bridge to wQUIL as they wish, and wQUIL holders will be able to bridge back to native QUIL with the 2.1 launch.
 
 </details>
 
 <details>
 
-<summary>What is next on the Q roadmap after 2.0?</summary>
+<summary>What is next on the Q roadmap after 2.1?</summary>
 
-After the 2.0 launch, the focus will be building out developer documentation and the fundamental services of the Internet that people enjoy such as file storage (i.e., S3), executable code, and domain services.
+After the 2.1 launch, the focus will be building out developer documentation and the fundamental services of the Internet that people enjoy such as file storage (i.e., S3), executable code, and domain services.
 
 </details>
 
@@ -52,13 +52,15 @@ After the 2.0 launch, the focus will be building out developer documentation and
 
 Not everything is ready to share publicly just yet but several public community projects include collectables/NFTs, node managers, Quorum (flagship demo app, Discord alternative) and decentralized exchanges.
 
+To see apps that are already available, check the [ecosystem page](https://quilibrium.one/ecosystem/).
+
 </details>
 
 <details>
 
 <summary>Is there developer documentation available?</summary>
 
-There is some, but more will be coming when Cassie can shift focus post-2.0 launch. This documentation is available in the Labs and docs tabs on Quilibrium.com, and some videos that Cassie has streamed. [YouTube Playlist](https://www.youtube.com/watch?v=eZ6oRyMAB3c\&list=PLnhsXXDZIsK7CTdt14TM9fo9KcT3GzPRf) Twitch
+There is some, but more will be coming when Cassie can shift focus post-2.0 launch. This documentation is available in the Labs and docs tabs on [Quilibrium.com](https://quilibrium.com/), and some videos that Cassie has streamed ([YouTube Playlist](https://www.youtube.com/watch?v=eZ6oRyMAB3c\&list=PLnhsXXDZIsK7CTdt14TM9fo9KcT3GzPRf)).
 
 </details>
 
@@ -88,15 +90,6 @@ Marketing and hiring starts after the 2.1 launch, when the Q Inc funding round c
 
 <details>
 
-<summary>Will the Twitch streams continue? Where can I access previous recordings?</summary>
-
-Previous recordings are available here: [Collection of Video Links - General - Quilibrium Forum](https://forum.quilibrium.com/t/collection-of-video-links/302)\
-The streams will continue depending on the founder availability, but there is no fixed schedule.
-
-</details>
-
-<details>
-
 <summary>What is the performance of the network at 2.1? How does it compare to other L1s?</summary>
 
 Part of the test suite actively being drilled through in the release process for 2.0 is security related, another part is performance related. When this has concluded, we will have firm numbers and call outs for places of improvement in subsequent updates.
@@ -110,6 +103,8 @@ See also [how-fast-is-quilibrium.md](diving-into-quilibrium/how-fast-is-quilibri
 <summary>How many developers are contributing to Q right now?</summary>
 
 Cassie Heart is the primary maintainer (hence the colloquial "BDFL" joke), but there are devs who have contributed huge parts to the protocol, such as the Rust VDF implementation and some consensus bug fixes.
+
+With the 2.1 launch, Q Inc will begin hiring more developers.
 
 </details>
 
@@ -151,7 +146,7 @@ You should continue to backup the entire \~/ceremonyclient/node/.config director
 
 <summary>How many nodes are online right now?</summary>
 
-Rough approximation of node count can be seen here: [https://dashboard.quilibrium.com](https://dashboard.quilibrium.com)
+A rough approximation of node count can be seen on the [Q dashboard](https://dashboard.quilibrium.com/).
 
 </details>
 
@@ -171,12 +166,14 @@ The network will operate under the full Proof of Meaningful Work reward basis, w
 
 There isn't a wallet per-say. You have an Account and that account owns tokens. Your account is created/set up using Passkeys which is handled by your browser and each application.
 
+There are however wallets maintained by third party developers. Check the [ecosystem page](https://quilibrium.one/ecosystem/).
+
 </details>
 
 <details>
 
 <summary>What is the circulating supply at 2.1?</summary>
 
-Approximately 1.2 billion (minus an estimated 50 to 100 million lost from missing backups and lost vouchers)
+Check the [Q dashboard](https://dashboard.quilibrium.com/).
 
 </details>
