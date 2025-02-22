@@ -12,6 +12,6 @@ The TLDR is that ZKP lets us compute over single party secrets while MPC lets us
 
 {% embed url="https://www.youtube.com/watch?v=PzcDqegGoKI" %}
 
-<figure><img src=".gitbook/assets/2f5ad4823e1e6c83a0f322203cea31a84436dbe0.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2f5ad4823e1e6c83a0f322203cea31a84436dbe0.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/d07c0231a54d6b24114851554728375aa99f14b4.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/d07c0231a54d6b24114851554728375aa99f14b4.jpeg" alt=""><figcaption></figcaption></figure>

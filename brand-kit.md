@@ -8,7 +8,11 @@ icon: eye
 These assets are provided solely for use in promotional materials that are shared freely. If you want to use the Quilibrium or Quorum logo for paid materials (e.g., t-shirts), you must obtain permission from Quilibrium Inc. and Cassandra Heart, the founder of Quilibrium.
 {% endhint %}
 
-### Quilibrium
+### Media kit (unofficial)
+
+You can visit the "media kit" channel on [Discord](https://discord.gg/quilibrium) to find many videos and images made by community members.&#x20;
+
+### Quilibrium brand kit
 
 {% tabs %}
 {% tab title="Logo" %}
@@ -36,7 +40,7 @@ Jost - [https://fonts.google.com/specimen/Jost](https://fonts.google.com/specime
 {% endtab %}
 {% endtabs %}
 
-### Quorum
+### Quorum brand kit
 
 {% tabs %}
 {% tab title="Logo" %}

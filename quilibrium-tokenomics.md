@@ -38,7 +38,7 @@ The current generation will last until 100 millions iterations are reached. This
 * Circulating Supply (10.02.25): \~ 1.3 Billions - please see the [dashboard](https://dashboard.quilibrium.com/) for the most updated value
 * Inflation: 1.6 to 1.7 Billions in 2033 (estimation)
 * Token emissions diminish according to network growth (storage demands)
-* As the network grows and emissions flatten out in each generation, transaction fees play a bigger role in miner incentives. See also [gas-fees-and-dynamic-fee-market-on-quilibrium.md](gas-fees-and-dynamic-fee-market-on-quilibrium.md "mention")
+* As the network grows and emissions flatten out in each generation, transaction fees play a bigger role in miner incentives. See also [gas-fees-and-dynamic-fee-market-on-quilibrium.md](diving-into-quilibrium/gas-fees-and-dynamic-fee-market-on-quilibrium.md "mention")
 
 <figure><img src=".gitbook/assets/Q-emissions-curve.jpg" alt=""><figcaption><p><em>The above chart is a conservative estimation, based on comment from the development team. Actual emission rate will depend on network storage demands.</em></p></figcaption></figure>
 
@@ -90,6 +90,6 @@ Essentially, an iteration is a basic unit of work that helps secure the network 
 </details>
 
 {% hint style="info" %}
-To understand why this adaptive issuance model is important, please read [how-does-quilibrium-maintain-decentralization.md](how-does-quilibrium-maintain-decentralization.md "mention")
+To understand why this adaptive issuance model is important, please read [how-does-quilibrium-maintain-decentralization.md](diving-into-quilibrium/how-does-quilibrium-maintain-decentralization.md "mention")
 {% endhint %}
 

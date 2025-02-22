@@ -39,7 +39,7 @@ Historically, there have been several notable “world computer” projects, eac
 3. **Internet Computer (Dfinity)**: Takes a completely different approach to scaling with its subnet-based model. However, it doesn’t prioritize network or data privacy as a core feature, nor does it use confidential computing to achieve its goals.
 4. **IPVM**: They’ve shut down. Like Dfinity, IPVM was an open compute platform that didn’t treat network or data privacy as a fundamental component.
 
-See also [q-vs-eth-vs-sol.md](q-vs-eth-vs-sol.md "mention")
+See also [q-vs-eth-vs-sol.md](diving-into-quilibrium/q-vs-eth-vs-sol.md "mention")
 
 ### What Sets Q Apart?
 

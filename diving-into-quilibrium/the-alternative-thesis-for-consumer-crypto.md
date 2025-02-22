@@ -10,7 +10,7 @@ This article is a VERY SIMPLIFIED summary of a longer talk by Cassandra Heart (Q
 
 At Quilibrium, we believe that history doesn’t repeat, but it certainly rhymes. The evolution of computing offers a compelling parallel to the transformation happening in the crypto space today. Just as the personal computer revolution was driven by a relentless pursuit of making computing more accessible, we see a similar need to make blockchain technology more intuitive and usable for consumers.
 
-<figure><img src=".gitbook/assets/d976721df2592487f55da8d948ab6729.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/d976721df2592487f55da8d948ab6729.webp" alt=""><figcaption></figcaption></figure>
 
 ### Learning from the Past: The Homebrew Computer Club and the Rise of Personal Computing
 

@@ -101,7 +101,7 @@ The streams will continue depending on the founder availability, but there is no
 
 Part of the test suite actively being drilled through in the release process for 2.0 is security related, another part is performance related. When this has concluded, we will have firm numbers and call outs for places of improvement in subsequent updates.
 
-See also [how-fast-is-quilibrium.md](how-fast-is-quilibrium.md "mention")
+See also [how-fast-is-quilibrium.md](diving-into-quilibrium/how-fast-is-quilibrium.md "mention")
 
 </details>
 

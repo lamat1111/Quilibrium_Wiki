@@ -94,7 +94,7 @@ For example, when the number of verified computations reaches **100 million iter
 
 By making token issuance responsive to real-world computational advancements rather than enforcing artificial supply cuts, Quilibrium creates a more sustainable, decentralized, and secure mining ecosystem.
 
-To learn more about this adaptive issuance model, see [quilibrium-tokenomics.md](quilibrium-tokenomics.md "mention").
+To learn more about this adaptive issuance model, see [quilibrium-tokenomics.md](../quilibrium-tokenomics.md "mention").
 
 ***
 
