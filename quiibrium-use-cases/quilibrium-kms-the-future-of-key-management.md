@@ -42,30 +42,30 @@ Quilibrium’s **KMS architecture** is built from the ground up to be:
 * **Verifiably secure** (mathematically proven security).
 * **Usable** (high security without sacrificing ease of use).
 
-Here’s how it works:
+At its core, Quilibrium KMS functions as a **super-secure vault for digital keys that unlock encrypted data**. But what makes it revolutionary?
 
-#### 1. **Key Splitting at the Source**
+#### &#x20;1. **True Multi-Party Computation (MPC)**
 
-* Instead of generating and storing a private key in full, Quilibrium **splits the key into multiple encrypted fragments**.
-* No single entity ever holds the full key—not even Quilibrium itself.
+Unlike some services that **claim** to use MPC but merely **split keys across servers**, Quilibrium KMS uses **genuine MPC**. This means:
 
-#### 2. **Multiparty Computation (MPC) for Signing**
+* The **actual key is never fully reconstructed** in one place.
+* Private keys remain **distributed** across multiple independent nodes.
+* Transactions can be signed **securely** without ever exposing the key.
 
-* When a transaction needs to be signed, Quilibrium’s **MPC system** allows key fragments to participate **without revealing themselves** or reassembling the full key.
-* This means **an attacker can never steal a complete key**, even if they compromise multiple participants.
+This approach is far superior to traditional key splitting, making Quilibrium KMS one of the **most secure key management systems in existence**.
 
-#### &#x20;3. **Purpose-Bound Cryptographic Keys**
+#### 2. **Regulatory Compliance & Risk Reduction**
+
+* Designed to **help companies meet strict security regulations**, such as those set by **the NYDFS (New York Department of Financial Services)**.
+* Eliminates the need for **trusted execution environments (TEEs)**, which have been **hacked before**.
+* Reduces the risk of **insider threats and human error** by **removing key recombination from the process**.
+
+#### 3. **Purpose-Bound Cryptographic Keys**
 
 * Every key managed by Quilibrium KMS is **tied to a specific function** (e.g., "sign this transaction" or "approve this smart contract").
 * Even if a hacker gained access to key fragments, they **couldn’t misuse them** for unauthorized actions.
 
-#### 4. **No Single Point of Failure**
-
-* Unlike traditional KMS systems that rely on **centralized trusted execution environments (TEEs)** (which have been hacked before), Quilibrium ensures:
-  * **Keys are distributed across multiple independent nodes.**
-  * **No entity has unilateral control over the key.**
-
-#### 5. **Seamless Cold Storage Without Manual Handling**
+#### 4. **Seamless Cold Storage Without Manual Handling**
 
 * Traditional cold storage requires manually retrieving key backups to sign transactions.
 * With Quilibrium, **keys never need to be manually reconstructed**—transactions are securely signed using MPC without revealing key material.
