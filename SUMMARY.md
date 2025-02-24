@@ -26,6 +26,7 @@
   * [A data storage solution built for maximum security](a-data-storage-solution-built-for-maximum-security.md)
   * [Hosting ERP Systems on the Quilibrium Network](a-cryptographically-secure-solution-to-host-erp-systems.md)
   * [The Internet Needed for the Evolution of Smart Cities](quiibrium-use-cases/the-internet-needed-for-the-evolution-of-smart-cities.md)
+* [Quilibrium KMS: The Future of Key Management](quilibrium-kms-the-future-of-key-management.md)
 * [External articles](external-articles/README.md)
   * [Quilibrium explained like I am 5 :-)](https://paragraph.xyz/@quilibrium.com/eli5-quilibrium)
   * [Quilibrium Builders' Guide](https://paragraph.xyz/@quilibrium.com/quil-builders-guide)
