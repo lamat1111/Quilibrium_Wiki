@@ -53,7 +53,7 @@ _Simple transactions on optimized hardware with a strong network can hit that li
 
 Here’s how Quilibrium stacks up against Ethereum, Solana, and Kaspa:
 
-<table><thead><tr><th>Blockchain</th><th>Finalization Time</th><th>Key Mechanism</th><th data-hidden></th></tr></thead><tbody><tr><td>Quilibrium</td><td>200 ms - 10 s</td><td>RPM Mixnet + Parallel Nodes</td><td>Varies by shard, hardware, and network</td></tr><tr><td>Ethereum</td><td>12-14 minutes (base)</td><td>Proof of Stake</td><td>Slower but secure; Layer-2s speed it up</td></tr><tr><td>Solana</td><td>~12.8 s (full finality)</td><td>Proof of History + PoS</td><td>~1-2 s practical confirmation</td></tr><tr><td>Kaspa</td><td>1-10 s</td><td>BlockDAG + Proof of Work</td><td>Fast 1-s blocks, high throughput potential</td></tr></tbody></table>
+<table><thead><tr><th>Blockchain</th><th>Finalization Time</th><th>Key Mechanism</th><th data-hidden></th></tr></thead><tbody><tr><td>Ethereum</td><td>12-14 minutes (base)</td><td>Proof of Stake</td><td>Slower but secure; Layer-2s speed it up</td></tr><tr><td>Solana</td><td>~12.8 s (full finality)</td><td>Proof of History + PoS</td><td>~1-2 s practical confirmation</td></tr><tr><td>Kaspa</td><td>1-10 s</td><td>BlockDAG + Proof of Work</td><td>Fast 1-s blocks, high throughput potential</td></tr><tr><td><strong>Quilibrium</strong></td><td>200 ms - 10 s</td><td>RPM Mixnet + Parallel Nodes</td><td>Varies by shard, hardware, and network</td></tr></tbody></table>
 
 * Ethereum: \
   After its 2022 Proof of Stake shift, base-layer finality takes 12-14 minutes (6 blocks at 12-14 seconds each). Users often treat 1-2 minutes as “confirmed,” but full security lags. It’s built for robustness, not speed.
