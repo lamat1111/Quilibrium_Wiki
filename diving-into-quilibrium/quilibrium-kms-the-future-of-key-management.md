@@ -22,7 +22,7 @@ Most crypto organizations today use **one of three common methods** to store and
 
 * **U**sually managed by a smart contract, where m**ultiple signers** must approve transactions.
 * The smart contract can be compromised.
-* Attackers can **compromise signers** through phishing or **replace the transaction interface**, tricking signers into approving fraudulent transfers.&#x20;
+* Attackers can **compromise signers** through phishing or **replace the transaction interface**, tricking signers into approving fraudulent transfers (see Bybit 1.4 B "hack" in February 2025).
 
 #### **Cold Storage (Secure, But Cumbersome)**
 
@@ -77,7 +77,7 @@ This approach is far superior to traditional key splitting, making Quilibrium KM
 
 Compared to existing key management methods, Quilibrium KMS offers **unparalleled security** and usability:
 
-<table data-header-hidden><thead><tr><th width="215"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Feature</strong></td><td>Hot Wallets</td><td>Multisig</td><td>Cold Storage</td><td>Quilibrium</td></tr><tr><td><strong>No key exposure</strong></td><td>❌ No</td><td>⚠️ Partial</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>No single failure point</strong></td><td>❌ No</td><td>⚠️ Partial</td><td>⚠️ Partial</td><td>✅ Yes</td></tr><tr><td><strong>No manual handling</strong></td><td>✅ Yes</td><td>✅ Yes</td><td>❌ No</td><td>✅ Yes</td></tr><tr><td><strong>Phishing resistant</strong></td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>Keys can’t be stolen</strong></td><td>❌ No</td><td>❌ No</td><td>⚠️ Partial</td><td>✅ Yes</td></tr><tr><td><strong>Cold storage security</strong></td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>Purpose-bound keys</strong></td><td>❌ No</td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td></tr><tr><td><strong>Fully decentralized</strong></td><td>❌ No</td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="215"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Feature</strong></td><td>Hot Wallets</td><td>Multisig</td><td>Cold Storage</td><td>Quilibrium</td></tr><tr><td><strong>No key exposure</strong></td><td>❌ No</td><td>⚠️ Partial</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>No single failure point</strong></td><td>❌ No</td><td>⚠️ Partial</td><td>⚠️ Partial</td><td>✅ Yes</td></tr><tr><td><strong>No manual handling</strong></td><td>✅ Yes</td><td>✅ Yes</td><td>❌ No</td><td>✅ Yes</td></tr><tr><td><strong>Phishing resistant</strong></td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>Keys can’t be stolen</strong></td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>Cold storage security</strong></td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td><td>✅ Yes</td></tr><tr><td><strong>Purpose-bound keys</strong></td><td>❌ No</td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td></tr><tr><td><strong>Fully decentralized</strong></td><td>❌ No</td><td>❌ No</td><td>❌ No</td><td>✅ Yes</td></tr></tbody></table>
 
 {% hint style="info" %}
 * Hot wallets: Browser or mobile apps (e.g. Metamask)
