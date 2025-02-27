@@ -85,6 +85,10 @@ Compared to existing key management methods, Quilibrium KMS offers **unparallele
 * Cold Storage: Private keys are **generated and stored offline** (e.g., in hardware wallets or paper backups)
 {% endhint %}
 
+{% hint style="warning" %}
+The table highlights Quilibrium KMS’s technical strengths, such as no key exposure and phishing resistance, but human-related risks like social engineering, insider threats, or user error can still compromise security, as its founder cautions. Combining the technology with robust user education and proactive security practices is essential to address these vulnerabilities effectively.
+{% endhint %}
+
 ***
 
 ### Real-World Use Cases
@@ -105,3 +109,9 @@ Compared to existing key management methods, Quilibrium KMS offers **unparallele
 
 * Replace **centralized control over treasury funds** with **fully decentralized, verifiable key management**.
 * Ensure **no single admin can compromise funds**.
+
+***
+
+{% hint style="info" %}
+For a deeper dive into crypto security and insights related to the recent Bybit hack, read this article on X by Quilibrium founder Cassandra Heart: [Bybit, Gnosis, and Cold Storage](https://x.com/cass_on_mars/status/1894915387805884565)
+{% endhint %}
