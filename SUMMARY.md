@@ -30,6 +30,7 @@
 * [External articles](external-articles/README.md)
   * [Quilibrium explained like I am 5 :-)](https://paragraph.xyz/@quilibrium.com/eli5-quilibrium)
   * [Quilibrium Builders' Guide](https://paragraph.xyz/@quilibrium.com/quil-builders-guide)
+  * [Bybit, Gnosis, and Cold Storage](https://x.com/cass_on_mars/status/1894915387805884565)
 * [Running a Node](running-a-node/README.md)
   * [Is running a Quilibrium node still profitable?](running-a-node/is-running-a-quilibrium-node-still-profitable.md)
   * [How does Quilibrium reward the most efficient nodes?](running-a-node/how-does-quilibrium-reward-the-most-efficient-nodes.md)
