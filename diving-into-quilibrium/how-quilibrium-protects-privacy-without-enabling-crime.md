@@ -34,6 +34,17 @@ However, a completely hidden system **could** attract bad actors, so Quilibrium 
 
 ***
 
+### Security Measures Against Money Laundering
+
+Quilibrium's built-in privacy creates a challenge: traditional banks and financial institutions won’t accept its coins unless there’s clear proof they’re legitimate, yet people still want to keep their financial details private.&#x20;
+
+To address this, Quilibrium uses a special feature called a bloom filter. \
+Here’s how it works: when a coin is transferred, the bloom filter attaches the public address of the account holding it. If someone wants to check if the coin is linked to illegal activity (like money laundering), they can compare it to a public list of known bad actors, e.g. one provided by a financial institution.&#x20;
+
+Based on this, they can choose to accept the coin or reject it. If rejected, the coin is sent back to a refund address. Coins can also be combined or split. When combined, their bloom filters merge, but this is the owner’s choice. When split, each new coin carries the same bloom filter as the original. This system helps protect privacy while offering a way to screen for suspicious activity, like money laundering, making it easier for users and institutions to cooperate.
+
+***
+
 ### **Balancing Privacy and Security in Different Use Cases**
 
 #### **1. Messaging and Financial Transactions**
