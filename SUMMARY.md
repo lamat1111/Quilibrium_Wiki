@@ -28,6 +28,7 @@
   * [Hosting ERP Systems on the Quilibrium Network](a-cryptographically-secure-solution-to-host-erp-systems.md)
   * [The Internet Needed for the Evolution of Smart Cities](quiibrium-use-cases/the-internet-needed-for-the-evolution-of-smart-cities.md)
   * [Quilibrium : the Path to Achieving Scale for AI](quiibrium-use-cases/quilibrium-the-path-to-achieving-scale-for-ai.md)
+  * [Moving Tokenized Real-World Assets Onto Quilibrium](quiibrium-use-cases/moving-tokenized-real-world-assets-onto-quilibrium.md)
 * [External articles](external-articles/README.md)
   * [Quilibrium explained like I am 5 :-)](https://paragraph.xyz/@quilibrium.com/eli5-quilibrium)
   * [Quilibrium Builders' Guide](https://paragraph.xyz/@quilibrium.com/quil-builders-guide)
