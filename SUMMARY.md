@@ -29,6 +29,7 @@
   * [The internet needed for the evolution of Smart Cities](quiibrium-use-cases/the-internet-needed-for-the-evolution-of-smart-cities.md)
   * [Quilibrium : the path to achieving scale for AI](quiibrium-use-cases/quilibrium-the-path-to-achieving-scale-for-ai.md)
   * [Moving tokenized real-world assets onto Quilibrium](quiibrium-use-cases/moving-tokenized-real-world-assets-onto-quilibrium.md)
+  * [Quilibrium: A Real World Asset Network Solution For Custodians](quiibrium-use-cases/quilibrium-a-real-world-asset-network-solution-for-custodians.md)
   * [Quilibrium: a global network for unlocking AI agents' true potential](quiibrium-use-cases/quilibrium-a-global-network-for-unlocking-ai-agents-true-potential.md)
   * [Quilibrium: scalability for the metaverse without limitations](quiibrium-use-cases/quilibrium-scalability-for-the-metaverse-without-limitations.md)
 * [External articles](external-articles/README.md)
